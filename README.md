@@ -5,7 +5,7 @@ You can then evaluate the relationship between the independent and dependent var
 Regression is a field of statistical study that forms a core part of predictive models in machine learning.
 Regression problems occur when the output variable is a real or continuous value such as "salary" or "weight".
 
-### Types-of-Regression
+## Types-of-Regression
 <ul>
 
   <li><b>Simple-Linear-Regression:</b> Simple linear regression is a linear regression technique that draws a straight line through data points to minimize the error between the line and the data points. 
